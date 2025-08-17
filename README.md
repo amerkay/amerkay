@@ -2,7 +2,7 @@
 
 I'm Amer — a full-stack software & product engineer with 15+ years of experience building tech solutions. 
 
-I'm on a mission to advance tech for wildlife conservation.
+I'm on a mission to create tech for wildlife conservation.
 
 👉 Check out on my mission's progress at [**WildAmer.com**](https://wildamer.com)
 
