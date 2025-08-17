@@ -4,9 +4,13 @@ I'm Amer — a full-stack software & product engineer with 15+ years of experien
 
 I'm on a mission to advance tech for wildlife conservation.
 
-👉 Check out my portfolio & blog at [**WildAmer.com**](https://wildamer.com)
+👉 Check out on my mission's progress at [**WildAmer.com**](https://wildamer.com)
+
+If you’re in the wildlife conservation space, or a fellow developer, we must talk! You can contact me through my website [**WildAmer.com**](https://wildamer.com)
+
 
 ---
+
 
 I can help you modernize your tech stack, saving you time and money by:
 
@@ -21,4 +25,3 @@ I can help you modernize your tech stack, saving you time and money by:
 ♾️ and more… if it saves time or connects your systems, I can build it. \
 
 
-If you’re in the wildlife conservation space, and you read so far down, we must talk! You can contact me via the Contact page on my website [**WildAmer.com**](https://wildamer.com)
