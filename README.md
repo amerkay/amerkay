@@ -9,9 +9,10 @@ I'm on a mission to advance tech for wildlife conservation.
 ---
 
 I can help you modernize your tech stack, saving you time and money by:
-1️⃣ Reconfiguring or setting up your CRM (Salesforce, CiviCRM) to streamline your team's efforts.
-2️⃣ Automating repetitive emails like donation follow-ups & reminders.
-3️⃣ Creating interactive maps for your sightings/landscape data on ArcGIS, or the free open-source Kepler.GL.
+
+1️⃣ Reconfiguring or setting up your CRM (Salesforce, CiviCRM) to streamline your team's efforts. 
+2️⃣ Automating repetitive emails like donation follow-ups & reminders. 
+3️⃣ Creating interactive maps for your sightings/landscape data on ArcGIS, or the free open-source Kepler.GL. 
 4️⃣ Constituent segmentation & marketing automation for emails and ads.
 5️⃣ Automate PDF template generation, such as your adoption kits to personalize certificates and letters.
 6️⃣ Help with the $10,000 Google AdGrant, for example, if you connect the people to rescuers this could have a CTR of 5%+ in the long run with keyword and geo-targeting.
