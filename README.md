@@ -6,7 +6,7 @@ I'm on a mission to advance tech for wildlife conservation.
 
 👉 Check out on my mission's progress at [**WildAmer.com**](https://wildamer.com)
 
-If you’re in the wildlife conservation space, or a fellow developer, we must talk! You can contact me through my website [**WildAmer.com**](https://wildamer.com)
+If you’re in the wildlife conservation space, or a fellow developer, we must talk! You can contact me through my website.
 
 
 ---
@@ -24,4 +24,4 @@ I can help you modernize your tech stack, saving you time and money by:
 8️⃣ Setting up your CRM for Rescue Management to track intakes, species, condition, and outcomes. \
 ♾️ and more… if it saves time or connects your systems, I can build it. \
 
-
+Don't forget to check out [**WildAmer.com**](https://wildamer.com)
