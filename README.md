@@ -12,7 +12,7 @@ If you’re in the wildlife conservation space, or a fellow developer, we must t
 ---
 
 
-I can help you modernize your tech stack, saving you time and money by:
+For non-profits and conservation orgs, I am currently volunteering to help modernize your tech stack, saving you time and money by:
 
 1️⃣ Reconfiguring or setting up your CRM (Salesforce, CiviCRM) to streamline your team's efforts. \
 2️⃣ Automating repetitive emails like donation follow-ups & reminders. \
